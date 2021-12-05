@@ -1,2 +1,0 @@
-# joshua
-my project
